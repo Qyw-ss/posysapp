@@ -1,2 +1,0 @@
-# posysapp
-pos app sederhana
